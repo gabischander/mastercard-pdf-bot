@@ -1,0 +1,32 @@
+# Credenciais e tokens - NUNCA COMITAR
+gmail_credentials.json
+gmail_token.json
+*.json
+credentials.json
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.production
+
+# Arquivos temporários
+*.log
+*.tmp
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+*.egg-info/
+dist/
+build/
