@@ -1,0 +1,18 @@
+2025-07-01 11:01:38,381 - INFO - Diretórios preparados: downloads_weekly, pdfs_weekly
+2025-07-01 11:01:38,381 - INFO - 🚀 INICIANDO COLETA SEMANAL DE PDFs MASTERCARD
+2025-07-01 11:01:38,381 - INFO - 📅 Hoje: 01 Jul 2025
+2025-07-01 11:01:38,381 - INFO - 📅 Semana anterior: 23 Jun 2025 até 29 Jun 2025
+2025-07-01 11:01:38,381 - INFO - ====== WebDriver manager ======
+2025-07-01 11:01:38,577 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-01 11:01:38,681 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-01 11:01:38,796 - INFO - Driver [/Users/gabrielaschander/.wdm/drivers/chromedriver/mac64/138.0.7204.92/chromedriver-mac-arm64/chromedriver] found in cache
+2025-07-01 11:01:40,825 - INFO - 🌐 Abrindo mastercardconnect.com...
+2025-07-01 11:02:25,316 - INFO - 🔍 Procurando documentos com Publication Date da semana anterior...
+2025-07-01 11:02:25,316 - INFO - 📅 Hoje: 01 Jul 2025
+2025-07-01 11:02:25,317 - INFO - 📅 Semana anterior: 23 Jun 2025 até 29 Jun 2025
+2025-07-01 11:02:30,330 - INFO - 📋 Encontrados 0 elementos com 'Publication Date:'
+2025-07-01 11:02:30,330 - INFO - 📋 Total de documentos da semana anterior: 0
+2025-07-01 11:02:30,330 - WARNING - ⚠️ Nenhum documento da semana anterior encontrado!
+2025-07-01 11:02:30,330 - INFO - 🔧 DEBUG - Todas as Publication Dates encontradas:
+2025-07-01 11:02:30,330 - ERROR - ❌ Nenhum documento encontrado para download
+2025-07-01 11:02:37,883 - INFO - 🔚 Navegador fechado

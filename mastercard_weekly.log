@@ -1,0 +1,21 @@
+2025-07-01 10:55:13,888 - INFO - Diretórios preparados: downloads_weekly, pdfs_weekly
+2025-07-01 10:55:13,888 - INFO - 🚀 INICIANDO COLETA SEMANAL DE PDFs MASTERCARD
+2025-07-01 10:55:13,888 - INFO - 🗓️ Semana anterior: 23 Jun 2025 até 29 Jun 2025
+2025-07-01 10:55:13,888 - INFO - ====== WebDriver manager ======
+2025-07-01 10:55:14,032 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-01 10:55:14,152 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-01 10:55:14,271 - INFO - Driver [/Users/gabrielaschander/.wdm/drivers/chromedriver/mac64/138.0.7204.92/chromedriver-mac-arm64/chromedriver] found in cache
+2025-07-01 10:55:15,925 - INFO - 🚀 Iniciando navegação...
+2025-07-01 10:55:18,300 - INFO - Site carregado
+2025-07-01 10:56:22,102 - INFO - 🔍 Procurando Technical Resource Center...
+2025-07-01 10:56:22,103 - INFO - Tentando URL: https://mastercardconnect.com/technical-resource-center
+2025-07-01 10:56:26,638 - INFO - Tentando URL: https://mastercardconnect.com/resources/technical
+2025-07-01 10:56:30,349 - INFO - Tentando URL: https://mastercardconnect.com/trc
+2025-07-01 10:56:34,169 - INFO - Tentando URL: https://mastercardconnect.com/resources
+2025-07-01 10:56:38,063 - INFO - Procurando links para TRC na página atual...
+2025-07-01 10:56:38,071 - ERROR - ❌ Não conseguiu acessar Technical Resource Center
+2025-07-01 10:57:44,159 - INFO - 🔍 Procurando PDFs da semana anterior...
+2025-07-01 10:57:44,160 - INFO - 🗓️ Semana anterior: 23 Jun 2025 até 29 Jun 2025
+2025-07-01 10:57:49,182 - INFO - Analisando 210 elementos...
+2025-07-01 10:57:50,107 - INFO - �� Encontrados 0 documentos únicos da semana anterior
+2025-07-01 10:57:50,107 - WARNING - ⚠️ Nenhum documento da semana anterior encontrado
